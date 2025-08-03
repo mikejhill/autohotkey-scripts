@@ -13,4 +13,4 @@ jobs:
         with:
           python-version: '3.x'
       - name: Lint AutoHotkey scripts
-        run: python lint.py
+        run: python ahk_lint.py --rule-file lint/default_rules.txt

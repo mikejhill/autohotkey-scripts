@@ -1,0 +1,4 @@
+require_ahk_version
+trailing_newline
+trailing_whitespace
+
