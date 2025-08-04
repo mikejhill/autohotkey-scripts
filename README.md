@@ -1,5 +1,7 @@
 # AutoHotkey Scripts
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A collection of personal AutoHotkey v2 scripts for automating everyday Windows tasks.
 
 ## Table of Contents
