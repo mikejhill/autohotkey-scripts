@@ -1,4 +1,6 @@
 require_ahk_version
+require_warn_directive
+require_single_instance
 trailing_newline
 trailing_whitespace
-
+unused_functions
